@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Basilisk II Web</title>
+</head>
+<body>
+    <div id="screen"></div>
+    <script>
+        // Crea il worker
+        const worker = new Worker('worker.js');
+        
+        // Gestione messaggi dal worker
+        worker.onmessage = function(e) {
+            const msg = e.data;
+            switch(msg.type) {
+                case 'print':
+                    console.log(msg.text);
+                    break;
+                case 'error':
+                    console.error(msg.text);
+                    break;
+                case 'ready':
+                    console.log('Basilisk II pronto!');
+                    break;
+            }
+        };
+
+        // Inizializza Basilisk II
+        worker.postMessage({
+            type: 'init',
+            options: {
+                romFile: 'mac.rom',
+                diskFile: 'macos.dsk'
+            }
+        });
+    </script>
+</body>
+</html>
