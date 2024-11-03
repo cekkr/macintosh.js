@@ -27,7 +27,9 @@
 #include <semaphore.h>
 
 #ifdef __linux__
-#include <linux/soundcard.h>
+//#include <linux/soundcard.h> // emscripten specific
+#include <SDL2/SDL.h>
+#include <SDL2/SDL_audio.h>
 #endif
 
 #ifdef __FreeBSD__

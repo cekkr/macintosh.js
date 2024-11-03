@@ -97,6 +97,18 @@
 /* Fork */
 #define vfork fork
 
+/* SDL2 Audio Support */
+#define HAVE_SDL_AUDIO 1
+#define SDL_AUDIO_DRIVER_EMSCRIPTEN 1
+#define SDL_AUDIO_DRIVER_DUMMY 1
+
+/* SDL2 Version */
+#define SDL_MAJOR_VERSION 2
+#define SDL_MINOR_VERSION 0
+#define SDL_PATCHLEVEL 0
+
+#define ENABLE_SDL2 1
+
 /* Include necessari header */
 #include <stdint.h>
 #include <sys/types.h>

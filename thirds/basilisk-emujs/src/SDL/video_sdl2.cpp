@@ -94,8 +94,8 @@ static int display_type = DISPLAY_WINDOW;			// See enum above
 const char KEYCODE_FILE_NAME[] = "keycodes";
 const char KEYCODE_FILE_NAME2[] = "BasiliskII_keycodes";
 #else
-const char KEYCODE_FILE_NAME[] = DATADIR "/keycodes";
-const char KEYCODE_FILE_NAME2[] = DATADIR "/BasiliskII_keycodes";
+const char KEYCODE_FILE_NAME[] = "MacOSX/keycodes";
+const char KEYCODE_FILE_NAME2[] = "MacOSX/BasiliskII_keycodes";
 #endif
 
 // Mac Screen Width and Height

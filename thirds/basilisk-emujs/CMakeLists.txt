@@ -48,6 +48,8 @@ include_directories(
     ${CMAKE_CURRENT_SOURCE_DIR}/src/include
     ${CMAKE_CURRENT_SOURCE_DIR}/src/Unix
     ${CMAKE_CURRENT_SOURCE_DIR}/src/SDL
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/uae_cpu
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/CrossPlatform
 )
 
 # Definizioni
@@ -60,6 +62,8 @@ add_definitions(
     -DUSE_SDL=1
     -DUSE_SDL_VIDEO=1
     -DUSE_SDL_AUDIO=1
+    -DEMSCRIPTEN
+    -DNO_NATIVE_VM_ALLOC
 )
 
 # Target
