@@ -36,7 +36,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/disk.cpp" "CMakeFiles/basilisk.dir/src/disk.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/disk.cpp.o.d"
   "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/emul_op.cpp" "CMakeFiles/basilisk.dir/src/emul_op.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/emul_op.cpp.o.d"
   "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/ether.cpp" "CMakeFiles/basilisk.dir/src/ether.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/ether.cpp.o.d"
-  "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/ether_ems_bridge.cpp" "CMakeFiles/basilisk.dir/src/ether_ems_bridge.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/ether_ems_bridge.cpp.o.d"
+  "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/ether_web.cpp" "CMakeFiles/basilisk.dir/src/ether_web.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/ether_web.cpp.o.d"
   "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/extfs.cpp" "CMakeFiles/basilisk.dir/src/extfs.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/extfs.cpp.o.d"
   "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/macos_util.cpp" "CMakeFiles/basilisk.dir/src/macos_util.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/macos_util.cpp.o.d"
   "/Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/main.cpp" "CMakeFiles/basilisk.dir/src/main.cpp.o" "gcc" "CMakeFiles/basilisk.dir/src/main.cpp.o.d"

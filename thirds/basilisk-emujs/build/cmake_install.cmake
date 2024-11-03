@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/cache/sysroot")
+  set(CMAKE_INSTALL_PREFIX "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

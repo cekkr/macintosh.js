@@ -88,7 +88,7 @@
 #define HAVE_S_ISSOCK 1
 
 /* JIT compiler options */
-#define ENABLE_MON 1
+//#define ENABLE_MON 1
 #define ENABLE_JIT 0
 
 /* BSD sockets */

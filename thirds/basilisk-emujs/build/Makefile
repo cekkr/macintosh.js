@@ -801,29 +801,29 @@ src/ether.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether.cpp.s
 .PHONY : src/ether.cpp.s
 
-src/ether_ems_bridge.o: src/ether_ems_bridge.cpp.o
-.PHONY : src/ether_ems_bridge.o
+src/ether_web.o: src/ether_web.cpp.o
+.PHONY : src/ether_web.o
 
 # target to build an object file
-src/ether_ems_bridge.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether_ems_bridge.cpp.o
-.PHONY : src/ether_ems_bridge.cpp.o
+src/ether_web.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether_web.cpp.o
+.PHONY : src/ether_web.cpp.o
 
-src/ether_ems_bridge.i: src/ether_ems_bridge.cpp.i
-.PHONY : src/ether_ems_bridge.i
+src/ether_web.i: src/ether_web.cpp.i
+.PHONY : src/ether_web.i
 
 # target to preprocess a source file
-src/ether_ems_bridge.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether_ems_bridge.cpp.i
-.PHONY : src/ether_ems_bridge.cpp.i
+src/ether_web.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether_web.cpp.i
+.PHONY : src/ether_web.cpp.i
 
-src/ether_ems_bridge.s: src/ether_ems_bridge.cpp.s
-.PHONY : src/ether_ems_bridge.s
+src/ether_web.s: src/ether_web.cpp.s
+.PHONY : src/ether_web.s
 
 # target to generate assembly for a file
-src/ether_ems_bridge.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether_ems_bridge.cpp.s
-.PHONY : src/ether_ems_bridge.cpp.s
+src/ether_web.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/basilisk.dir/build.make CMakeFiles/basilisk.dir/src/ether_web.cpp.s
+.PHONY : src/ether_web.cpp.s
 
 src/extfs.o: src/extfs.cpp.o
 .PHONY : src/extfs.o
@@ -1278,9 +1278,9 @@ help:
 	@echo "... src/ether.o"
 	@echo "... src/ether.i"
 	@echo "... src/ether.s"
-	@echo "... src/ether_ems_bridge.o"
-	@echo "... src/ether_ems_bridge.i"
-	@echo "... src/ether_ems_bridge.s"
+	@echo "... src/ether_web.o"
+	@echo "... src/ether_web.i"
+	@echo "... src/ether_web.s"
 	@echo "... src/extfs.o"
 	@echo "... src/extfs.i"
 	@echo "... src/extfs.s"

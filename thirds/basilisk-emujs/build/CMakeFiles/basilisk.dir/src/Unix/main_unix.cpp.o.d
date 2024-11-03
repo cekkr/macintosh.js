@@ -1,6 +1,5 @@
-CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
-  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/disk_sparsebundle.cpp \
-  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/disk_unix.h \
+CMakeFiles/basilisk.dir/src/Unix/main_unix.cpp.o: \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/main_unix.cpp \
   /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/sysdeps.h \
   /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/../config.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stdint.h \
@@ -53,48 +52,24 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/fcntl.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/fcntl.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/sys/time.h \
-  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/tinyxml2.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cctype \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/signal.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/signal.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/errno.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/errno.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/errno.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/sstream \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__assert \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__assertion_handler \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__verbose_abort \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__availability \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/ctype.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/ctype.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/climits \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/limits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/limits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/limits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstdio \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstdlib \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstring \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_constant_evaluated.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstdarg \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/compat/stdarg.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/stdarg.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/stdarg.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_header_macro.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg___gnuc_va_list.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_va_list.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_va_arg.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg___va_copy.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_va_copy.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/errno.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/errno.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/errno.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/algorithm \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/version \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/adjacent_find.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/comp.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/integral_constant.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/operation_traits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/iterator_operations.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/iter_swap.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/declval.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/sstream.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/string.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/memory_resource.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/swap.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_move_assignable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/add_lvalue_reference.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_referenceable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/integral_constant.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_same.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/add_rvalue_reference.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_move_constructible.h \
@@ -103,12 +78,14 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_nothrow_constructible.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_constructible.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_reference.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/declval.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstddef \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/enable_if.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_integral.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/remove_cv.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/remove_const.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/remove_volatile.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/version \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_swappable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/conditional.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_void.h \
@@ -118,21 +95,38 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/add_const.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/remove_reference.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__undef_macros \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/ranges_iterator_concept.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/concepts.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/istream \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/istream.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/istreambuf_iterator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/streambuf.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/default_sentinel.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iterator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iterator_traits.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/arithmetic.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_floating_point.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_signed.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_arithmetic.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_signed_integer.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_unsigned_integer.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/assignable.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/common_reference_with.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/constructible.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/convertible_to.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_convertible.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_array.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_function.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_const.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/destructible.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_nothrow_destructible.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_destructible.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/remove_all_extents.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_scalar.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_enum.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_member_pointer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_member_function_pointer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_null_pointer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_pointer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/copyable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/assignable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/common_reference_with.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/same_as.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/common_reference.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/common_type.h \
@@ -147,18 +141,6 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/copy_cvref.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/make_const_lvalue_ref.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/forward.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/constructible.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/destructible.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_nothrow_destructible.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_destructible.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/remove_all_extents.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_scalar.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_enum.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_member_pointer.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_member_function_pointer.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_null_pointer.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_pointer.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/copyable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/movable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/swappable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/class_or_enum.h \
@@ -168,41 +150,49 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/exchange.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_nothrow_assignable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_object.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/derived_from.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_base_of.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/equality_comparable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/boolean_testable.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/invocable.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/invoke.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/invoke.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/apply_cv.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_volatile.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_core_convertible.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_member_object_pointer.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_reference_wrapper.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/predicate.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/regular.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/semiregular.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/relation.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/totally_ordered.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/pair.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/incrementable_traits.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_primary_template.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_valid_expansion.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/make_signed.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/apply_cv.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_volatile.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/type_list.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iter_move.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iterator_traits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/pair.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/readable_traits.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/disjunction.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/pointer_traits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/addressof.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/conjunction.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/advance.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/convert_to_integral.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/underlying_type.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/unreachable.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/limits \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_base_of.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/ostream \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/operations.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/ostream.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/shared_ptr.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/compare_three_way.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/three_way_comparable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/common_comparison_category.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/ordering.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/exception.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/binary_function.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/operations.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/unary_function.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/operation_traits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/reference_wrapper.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/invoke.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/invoke.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_core_convertible.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_member_object_pointer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_reference_wrapper.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/weak_result_type.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/addressof.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/access.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocation_guard.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator_traits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/construct_at.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/voidify.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/new \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstdlib \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/type_traits \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/hash.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/aligned_storage.h \
@@ -223,6 +213,7 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_trivial.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_compound.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_fundamental.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_constant_evaluated.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_copy_assignable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_default_constructible.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_empty.h \
@@ -237,6 +228,7 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_pod.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_polymorphic.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_scoped_enum.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/underlying_type.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_specialization.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_trivially_assignable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_trivially_constructible.h \
@@ -258,6 +250,39 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/result_of.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/type_identity.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/unwrap_ref.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/pointer_traits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/limits \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocate_at_least.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator_destructor.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/auto_ptr.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/compressed_pair.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/get.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/array.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/subrange.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/tuple.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_element.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_indices.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/integer_sequence.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_types.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/piecewise_construct.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/uninitialized_algorithms.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_move_common.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/iterator_operations.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/iter_swap.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/ranges_iterator_concept.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/concepts.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/derived_from.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/invocable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/predicate.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/regular.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/semiregular.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/relation.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iter_move.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/advance.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/convert_to_integral.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/unreachable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/distance.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/access.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/enable_borrowed_range.h \
@@ -270,103 +295,81 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iter_swap.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/next.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/prev.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/all_of.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/any_of.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/binary_search.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/comp_ref_type.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/lower_bound.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/half_positive.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/identity.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/reference_wrapper.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/weak_result_type.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/binary_function.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/unary_function.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/clamp.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_move_common.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/unwrap_iter.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/unwrap_range.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/pair.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/common_comparison_category.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/ordering.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/synth_three_way.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/three_way_comparable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/different_from.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/array.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/get.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/subrange.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/tuple.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_element.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_indices.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/integer_sequence.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_types.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/pair_like.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_like.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_size.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/sfinae_helpers.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/make_tuple_types.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__tuple/tuple_like_ext.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/piecewise_construct.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__string/constexpr_c_functions.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/construct_at.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/access.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/voidify.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/new \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/exception.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/datasizeof.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_always_bitcastable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_equality_comparable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_trivially_lexicographically_comparable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/is_pointer_in_range.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/comp.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/for_each_segment.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/segmented_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/min.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/comp_ref_type.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/min_element.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_backward.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_if.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_n.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/count.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/invert_if.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/popcount.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/rotate.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/bit_reference.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/count_if.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/equal.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/equal_range.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/upper_bound.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/fill.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/fill_n.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_segment_if.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/countr.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cwchar \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cwctype \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/wctype.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/wctype.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/wchar.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/wchar.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_end.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/search.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/identity.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/move.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/reverse_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/compare_three_way_result.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/subrange.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/dangling.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/view_interface.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/empty.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_first_of.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_if.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_if_not.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/fold.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/for_each.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/movable_box.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/optional \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/exception_guard.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/unique_ptr.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/hash.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/in_place.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstring \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/typeinfo \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/memory_order.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__system_error/error_code.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__system_error/errc.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cerrno \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__system_error/error_category.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/string \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/max.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/max_element.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/remove.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_segment_if.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/countr.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/rotate.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/invert_if.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/bit_reference.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cwchar \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cwctype \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cctype \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/ctype.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/ctype.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/wctype.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/wctype.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/wchar.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/wchar.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_if.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/remove_if.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/enable_insertable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ios/fpos.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/ios.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/wrap_iter.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/swap_allocator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory_resource/polymorphic_allocator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory_resource/memory_resource.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/tuple \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator_arg_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/uses_allocator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/compare \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/compare_partial_order_fallback.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/partial_order.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/compare_three_way.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/weak_order.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/strong_order.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/bit_cast.h \
@@ -398,6 +401,68 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/compare_strong_order_fallback.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/compare_weak_order_fallback.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__compare/is_eq.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/exception \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/exception_ptr.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/nested_exception.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/terminate.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/iosfwd \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/fstream.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__std_mbstate_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mbstate_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/utility \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/as_const.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/as_lvalue.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/cmp.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/forward_like.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/in_place.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/rel_ops.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/to_underlying.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/container_compatible_range.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/from_range.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__string/char_traits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_n.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/fill_n.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_end.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/search.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_first_of.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstdio \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__string/extern_template_lists.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/is_allocator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/noexcept_move_assign_container.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/climits \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/limits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/limits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/limits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stdexcept \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/string_view \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/string_view.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/bounded_iter.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/data.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/empty.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/reverse_access.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/size.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/algorithm \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/adjacent_find.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/all_of.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/any_of.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/binary_search.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/lower_bound.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/half_positive.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/clamp.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_backward.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/copy_if.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/count.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/popcount.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/count_if.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/equal.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/equal_range.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/upper_bound.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/fill.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/find_if_not.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/fold.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/for_each.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/movable_box.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/optional \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/atomic \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/aliases.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/atomic.h \
@@ -406,7 +471,6 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/contention_t.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/cxx_atomic_impl.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/is_always_lock_free.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/memory_order.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__chrono/duration.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/ratio \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__thread/poll_with_backoff.h \
@@ -418,7 +482,6 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__threading_support \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__chrono/convert_to_timespec.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/check_memory_order.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/operations.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/atomic_lock_free.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/atomic_flag.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__atomic/atomic_init.h \
@@ -428,49 +491,16 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__concepts/common_with.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/iterator \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/back_insert_iterator.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/bounded_iter.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/common_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/variant \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/forward_like.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__variant/monostate.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/tuple \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator_arg_t.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/uses_allocator.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/exception \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/exception_ptr.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/operations.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/typeinfo \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/nested_exception.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__exception/terminate.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/iosfwd \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/fstream.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/string.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/memory_resource.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/ios.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/istream.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/ostream.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/sstream.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__fwd/streambuf.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__std_mbstate_t.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mbstate_t.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/utility \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/as_const.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/as_lvalue.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/cmp.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/exception_guard.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/rel_ops.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/to_underlying.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/counted_iterator.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/default_sentinel.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/data.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/empty.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/erase_if_container.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/front_insert_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/indirectly_comparable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/projected.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/insert_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/istream_iterator.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/istreambuf_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/mergeable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/ranges_operations.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/move_iterator.h \
@@ -478,33 +508,18 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/ostream_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/ostreambuf_iterator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/permutable.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/reverse_access.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/size.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/sortable.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/unreachable_sentinel.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/wrap_iter.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/memory \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/align.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocate_at_least.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator_traits.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocation_guard.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/assume_aligned.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/auto_ptr.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/compressed_pair.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/concepts.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/ranges_construct_at.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/ranges_uninitialized_algorithms.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/in_out_result.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/uninitialized_algorithms.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/move.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/raw_storage_iterator.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/shared_ptr.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/allocator_destructor.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/unique_ptr.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/temporary_buffer.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/uses_allocator_construction.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stdexcept \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/for_each_n.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/generate.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/generate_n.h \
@@ -530,8 +545,6 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/three_way_comp_ref_type.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/make_heap.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/sift_down.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/max.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/max_element.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/merge.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/min_max_result.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/minmax.h \
@@ -697,9 +710,7 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/ranges_unique_copy.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/unique_copy.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/ranges_upper_bound.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/remove.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/remove_copy.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/remove_if.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/replace.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/replace_copy.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__algorithm/replace_copy_if.h \
@@ -715,4 +726,184 @@ CMakeFiles/basilisk.dir/src/Unix/disk_sparsebundle.cpp.o: \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/bit_width.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/byteswap.h \
   /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/endian.h \
-  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/has_single_bit.h
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit/has_single_bit.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__system_error/error_condition.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/bitset \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__bit_reference \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/format \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/buffer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/concepts.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_fwd.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_parse_context.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_error.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_to_n_result.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/container_adaptor.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/range_default_formatter.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__chrono/statically_widen.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/range_formatter.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_context.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_arg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_arg_store.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_args.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/locale \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__locale \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mutex/once_flag.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__utility/no_destroy.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/clocale \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/locale.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/locale.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__support/musl/xlocale.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/ios \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__system_error/system_error.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/mutex \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__condition_variable/condition_variable.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mutex/mutex.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mutex/unique_lock.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mutex/tag_types.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__mutex/lock_guard.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__thread/id.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/system_error \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/streambuf \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__locale_dir/locale_base_api/bsd_locale_fallbacks.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__locale_dir/locale_base_api/locale_guard.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/compat/stdarg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/stdarg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/stdarg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_header_macro.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg___gnuc_va_list.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_va_list.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_va_arg.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg___va_copy.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stdarg_va_copy.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/cstdarg \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_output.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/parser_std_format_spec.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_string.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/unicode.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/extended_grapheme_cluster_table.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/width_estimation_table.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__ranges/ref_view.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/queue \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/deque \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/temp_value.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__split_buffer \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/functional \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/binary_negate.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/bind.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/bind_back.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/perfect_forward.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/bind_front.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/binder1st.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/binder2nd.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/boyer_moore_searcher.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/array \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/unordered_map \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/is_transparent.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__hash_table \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__iterator/ranges_iterator_traits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__node_handle \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/vector \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_bool.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_integral.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/to_chars_integral.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/tables.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/to_chars_base_10.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/to_chars_result.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/traits.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/make_32_64_or_128_bit.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/compose.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/default_searcher.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/function.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__memory/builtin_new_allocator.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__type_traits/strip_signature.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/mem_fn.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/mem_fun_ref.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/not_fn.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/pointer_to_binary_function.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/pointer_to_unary_function.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__functional/unary_negate.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stack \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/format_functions.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_char.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/write_escaped.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/escaped_output_table.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_floating_point.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/chars_format.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__charconv/to_chars_floating_point.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_integer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_pointer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_string.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__format/formatter_tuple.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/print \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_main.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_stdinc.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_config.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_platform.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/begin_code.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/close_code.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_config_emscripten.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_assert.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_atomic.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_audio.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_error.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_endian.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_mutex.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_thread.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_rwops.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_clipboard.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_cpuinfo.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_events.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_video.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_pixels.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_rect.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_surface.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_blendmode.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_keyboard.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_keycode.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_scancode.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_mouse.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_joystick.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_guid.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_gamecontroller.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_sensor.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_quit.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_gesture.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_touch.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_filesystem.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_haptic.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_hidapi.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_hints.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_loadso.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_log.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_messagebox.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_metal.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_power.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_render.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_shape.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_system.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_timer.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_version.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_locale.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/SDL2/SDL_misc.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/uae_cpu/cpu_emulation.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/uae_cpu/memory.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/sys.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/rom_patches.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/xpram.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/timer.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/video.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/emul_op.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/prefs.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/prefs_editor.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/macos_util.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/user_strings.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/version.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/main.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/CrossPlatform/vm_alloc.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/sys/mman.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/mman.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/CrossPlatform/sigsegv.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/rpc.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/include/debug.h

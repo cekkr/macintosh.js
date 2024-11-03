@@ -1081,6 +1081,8 @@ static void slirp_add_redirs()
 	}
 }
 
+#if 0
+
 // Add a port forward/redirection for slirp
 static int slirp_add_redir(const char *redir_str)
 {
@@ -1141,3 +1143,5 @@ static int slirp_add_redir(const char *redir_str)
 	WarningAlert(str);
 	return -1;
 }
+
+#endif

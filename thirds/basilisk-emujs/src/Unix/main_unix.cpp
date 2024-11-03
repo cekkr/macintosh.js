@@ -98,7 +98,7 @@ extern void flush_icache_range(uint8 *start, uint32 size); // from compemu_suppo
 #endif
 
 #ifdef ENABLE_MON
-# include "mon.h"
+#include "mon.h"
 #endif
 
 #define DEBUG 0

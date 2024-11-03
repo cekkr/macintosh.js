@@ -1,4 +1,4 @@
-set(CMAKE_C_COMPILER "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/emcc")
+set(CMAKE_C_COMPILER "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/emcc")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "Clang")
 set(CMAKE_C_COMPILER_VERSION "20.0.0")
@@ -22,10 +22,10 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/emar")
-set(CMAKE_C_COMPILER_AR "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/emar")
-set(CMAKE_RANLIB "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/emranlib")
-set(CMAKE_C_COMPILER_RANLIB "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/emranlib")
+set(CMAKE_AR "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/emar")
+set(CMAKE_C_COMPILER_AR "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/emar")
+set(CMAKE_RANLIB "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/emranlib")
+set(CMAKE_C_COMPILER_RANLIB "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/emranlib")
 set(CMAKE_LINKER "/usr/bin/ld")
 set(CMAKE_LINKER_LINK "")
 set(CMAKE_LINKER_LLD "")
@@ -75,7 +75,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "/opt/homebrew/Cellar/emscripten/3.1.68/libexec/cache/sysroot/include")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "/opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")
 set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

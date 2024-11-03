@@ -1,0 +1,35 @@
+CMakeFiles/basilisk.dir/src/Unix/posix_sem.cpp.o: \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/posix_sem.cpp \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/sys/types.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/features.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/alltypes.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/endian.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/sys/select.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stdio.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__config \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/__config_site \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/stdio.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/wasi/api.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stddef.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/stddef.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/stddef.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_header_macro.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_ptrdiff_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_size_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_wchar_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_null.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_nullptr_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_max_align_t.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/__stddef_offsetof.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/llvm/lib/clang/20/include/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/stdint.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/c++/v1/errno.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/errno.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/bits/errno.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/compat/time.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/time.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/pthread.h \
+  /opt/homebrew/Cellar/emscripten/3.1.70/libexec/cache/sysroot/include/sched.h \
+  /Users/riccardo/Sources/GitHub/macintosh.js/thirds/basilisk-emujs/src/Unix/semaphore.h

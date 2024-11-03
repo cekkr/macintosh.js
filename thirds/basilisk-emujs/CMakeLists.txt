@@ -40,7 +40,7 @@ file(GLOB SOURCES
 )
 
 # Aggiungi il bridge ethernet
-list(APPEND SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/src/ether_ems_bridge.cpp")
+list(APPEND SOURCES "${CMAKE_CURRENT_SOURCE_DIR}/src/ether_web.cpp")
 
 # Include directories
 include_directories(
@@ -56,8 +56,8 @@ include_directories(
 add_definitions(
     -DREAL_ADDRESSING=0
     -DADDRESS_SPACE_24=1
-    -DUNIX_SOCKET_NETWORKING=1
-    -DBSD_SOCKET_NETWORKING=1
+    -DUNIX_SOCKET_NETWORKING=0
+    -DBSD_SOCKET_NETWORKING=0
     -DDISABLE_VOSF=1
     -DUSE_SDL=1
     -DUSE_SDL_VIDEO=1
@@ -80,7 +80,10 @@ set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${EMSCRIPTEN_FLAGS}")
 # Exported functions
 set(EXPORTED_FUNCTIONS
     '_ems_ether_input'
-    '_ems_get_mac'
+    '_ems_get_mac',
+    '_ether_init', 
+    '_ether_send', 
+    '_ether_recv',
     '_malloc'
     '_free'
 )
